@@ -1,3 +1,5 @@
+package br.amandaqsena.exercicios;
+
 public class DesafioTemperatura {
 
     public static void main(String[] args) {

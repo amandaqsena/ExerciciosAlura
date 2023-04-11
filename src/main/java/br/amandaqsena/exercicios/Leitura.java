@@ -1,3 +1,5 @@
+package br.amandaqsena.exercicios;
+
 import java.util.Scanner;
 
 public class Leitura {

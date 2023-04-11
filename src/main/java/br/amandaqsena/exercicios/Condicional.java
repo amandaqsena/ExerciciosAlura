@@ -1,3 +1,5 @@
+package br.amandaqsena.exercicios;
+
 public class Condicional {
     public static void main(String[] args) {
         int anoDeLancamento = 1990;
